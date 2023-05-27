@@ -5,6 +5,13 @@
 
 - 📫 How to reach me **mahmoud.abdullah821@gmail.com**
 
+<h3 align="left">Problem-Solving:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/M.Abdullah" target="blank"><img align="center" src="https://codeforces.org/s/10797/images/codeforces-sponsored-by-ton.png" alt="M.Abdullah" height="30" width="50" /></a>
+<a href="https://leetcode.com/M_Abdullah/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="M_Abdullah" height="30" width="50" /></a>
+<a href="https://uhunt.onlinejudge.org/id/1000249" target="blank"><img align="center" src="https://uhunt.onlinejudge.org/images/uva.png" alt="M_Abdullah821" height="30" width="30" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud0abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud0abdullah" height="30" width="40" /></a>
