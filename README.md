@@ -7,8 +7,8 @@
 
 <h3 align="left">Problem-Solving:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/M.Abdullah" target="blank"><img align="center" src="https://codeforces.org/s/10797/images/codeforces-sponsored-by-ton.png" alt="M.Abdullah" height="50" width="100" /></a>
-<a href="https://leetcode.com/M_Abdullah/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="M_Abdullah" height="50" width="100" /></a>
+<a href="https://codeforces.com/profile/M.Abdullah" target="blank"><img align="center" src="https://codeforces.org/s/10797/images/codeforces-sponsored-by-ton.png" alt="M.Abdullah" height="50" width="150" /></a>
+<a href="https://leetcode.com/M_Abdullah/" target="blank"><img align="center" src="https://images.velog.io/images/yangju0411/post/3f0dd82a-65a6-4a2b-b138-5ce8e6087dd5/leetcode.png" alt="M_Abdullah" height="80" width="100" /></a>
 <a href="https://uhunt.onlinejudge.org/id/1000249" target="blank"><img align="center" src="https://uhunt.onlinejudge.org/images/uva.png" alt="M_Abdullah821" height="50" width="50" /></a>
 </p>
 
