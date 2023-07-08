@@ -165,3 +165,7 @@
     />
   </a>
 </p>
+
+<img width='40%' alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=vue">
+ 
+<img width='59%'  alt="github contribution grid snake animation" src="https://github.com/mAbdullah821/mAbdullah821/blob/output/github-contribution-grid-snake.svg">
