@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Abdullah</h1>
+  <h1 align="center">Hi 👋, I'm Mahmoud Abdullah</h1>
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mAbdullah821&label=Profile%20views&color=0e75b6&style=flat"
@@ -166,6 +166,10 @@
   </a>
 </p>
 
+<picture>
 <img width='40%' alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=vue">
- 
+ </picture>
+
+ <picture>
 <img width='59%'  alt="github contribution grid snake animation" src="https://github.com/mAbdullah821/mAbdullah821/blob/output/github-contribution-grid-snake.svg">
+</picture>
