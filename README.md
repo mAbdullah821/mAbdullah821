@@ -167,7 +167,7 @@
 </p>
 
 <picture>
-<img width='40%' alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=vue">
+<img width='40%' alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=github_dark">
  </picture>
 
  <picture>
