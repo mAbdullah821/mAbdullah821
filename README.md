@@ -11,7 +11,7 @@
 **mahmoud.abdullah821@gmail.com**
 
 <h3 align="left">Problem-Solving:</h3>
-<p align="left" style="color: #4A55A2">View profile by clicking the image</p>
+<p align="left" style="color:blue;font-size:46px;">View profile by clicking the image</p>
 <p align="left">
   <a href="https://codeforces.com/profile/M.Abdullah" target="blank"
     ><img
