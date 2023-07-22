@@ -11,7 +11,7 @@
 **mahmoud.abdullah821@gmail.com**
 
 <h3 align="left">Problem-Solving:</h3>
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `View profile by clicking the image`
+[#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `View profile by clicking the image`
 <p align="left">
   <a href="https://codeforces.com/profile/M.Abdullah" target="blank"
     ><img
