@@ -11,13 +11,13 @@
 **mahmoud.abdullah821@gmail.com**
 
 <h3 align="left">Problem-Solving:</h3>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<p align="center">
+  <img
+    src="https://placehold.co/15x15/1589F0/1589F0.png"
+    alt="info"
+  />
+  `View profile by clicking the image`
+</p>
 [#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `View profile by clicking the image`
 <p align="left">
   <a href="https://codeforces.com/profile/M.Abdullah" target="blank"
