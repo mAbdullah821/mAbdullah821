@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Node.js backend** - 📫 How to reach me
 **mahmoud.abdullah821@gmail.com**
 
-<h3 align="left">Problem-Solving:</h3>
+<h3 align="left">Problem-Solving (View profile by clicking the image):</h3>
 <p align="left">
   <a href="https://codeforces.com/profile/M.Abdullah" target="blank"
     ><img
