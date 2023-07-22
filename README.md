@@ -19,9 +19,9 @@
   `View profile by clicking the image`
 </p>
 ![info](https://placehold.co/15x15/1589F0/1589F0.png)
-`
+``
 View profile by clicking the image 
-`
+``
 <p align="left">
   <a href="https://codeforces.com/profile/M.Abdullah" target="blank"
     ><img
