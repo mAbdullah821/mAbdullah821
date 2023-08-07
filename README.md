@@ -56,6 +56,9 @@
   /></a>
 </p>
 
+<p>
+  <a href="#"><img alt="Javascript" src="https://iconscout.com/icon/code-forces-3521352"></a>
+</p>
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p>
   <a href="#"><img alt="Javascript" src="https://skillicons.dev/icons?i=js"></a>
