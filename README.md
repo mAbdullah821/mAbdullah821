@@ -77,7 +77,8 @@
   <a href="#"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
 </p>
 
-<picture>
-<img width='40%' alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=github_dark">
- </picture>
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mAbdullah821&" alt="mAbdullah821" />|<img src="https://github-readme-stats.vercel.app/api?username=mAbdullah821&show_icons=true&hide_border=true&hide=contribs&theme=github_dark" />
+|---|---|
 
