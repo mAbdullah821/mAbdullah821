@@ -58,6 +58,8 @@
 
 <p>
   <a href="#"><img alt="Javascript" src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=avif&w=64"></a>
+
+  <a href="https://iconscout.com/icons/code-forces" target="_blank">Free Code Forces Icon</a> by <a href="https://iconscout.com/contributors/icon-54">Icon 54</a> on <a href="https://iconscout.com">IconScout</a>
 </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
