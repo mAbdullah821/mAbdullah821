@@ -57,119 +57,24 @@
 </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-      title="MySQL"
-      alt="MySQL"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
+<p>
+  <a href="#"><img alt="Javascript" src="https://skillicons.dev/icons?i=js"></a>
+  <a href="#"><img alt="Typescript" src="https://skillicons.dev/icons?i=typescript"></a>
+  <a href="#"><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs"></a>
+  <a href="#"><img alt="ExpressJS" src="https://skillicons.dev/icons?i=express"></a>
+  <a href="#"><img alt="NestJS" src="https://skillicons.dev/icons?i=nestjs"></a>
+  <a href="#"><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"></a>
+  <a href="#"><img alt="MySql" src="https://skillicons.dev/icons?i=mysql"></a>
+  <a href="#"><img alt="Redis" src="https://skillicons.dev/icons?i=redis"></a>
+  <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
+  <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img alt="Github" src="https://skillicons.dev/icons?i=github"></a>
+  <a href="#"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
+  <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+  <a href="#"><img alt="Nginx" src="https://skillicons.dev/icons?i=nginx"></a>
+  <a href="#"><img alt="Python" src="https://skillicons.dev/icons?i=py"></a>
+  <a href="#"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
 </p>
 
 <picture>
