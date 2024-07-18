@@ -1,10 +1,5 @@
   <h1 align="center">Hi 👋, I'm Mahmoud Abdullah</h1>
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mAbdullah821&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mAbdullah821"
-  />
-</p>
+
 <h3 align="center">A passionate node.js backend developer from Egypt</h3>
 
 - Software Engineer with expertise in Node.js (1 year) - 📫 How to reach me
