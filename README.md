@@ -1,8 +1,8 @@
   <h1 align="center">Hi 👋, I'm Mahmoud Abdullah</h1>
 
-<h3 align="center">A passionate node.js backend developer from Egypt</h3>
+<h3 align="center">A passionate Backend Engineer from Egypt</h3>
 
-- Software Engineer with expertise in Node.js (1 year) - 📫 How to reach me
+- 📫 How to reach me
 **mahmoud.abdullah821@gmail.com**
   
 View the profile by clicking the logo
