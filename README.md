@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4:0891b2&height=200&section=header&text=Mahmoud%20Abdullah&fontSize=50&fontColor=fff&fontAlignY=35" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000:1f2937&height=200&section=header&text=Mahmoud%20Abdullah&fontSize=50&fontColor=4ade80&fontAlignY=35" alt="Header" />
 </div>
 
 <h1 align="center">Hey there 👋 I'm Mahmoud Abdullah</h1>
