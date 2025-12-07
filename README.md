@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4:0891b2&height=200&section=header&text=Mahmoud%20Abdullah&fontSize=50&fontColor=fff&fontAlignY=35" alt="Header" />
+</div>
+
 <h1 align="center">Hey there 👋 I'm Mahmoud Abdullah</h1>
 
 <h3 align="center">Backend Engineer | Node.js & TypeScript Specialist | Open to Opportunities 🚀</h3>
